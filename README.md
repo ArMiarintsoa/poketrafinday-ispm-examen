@@ -20,7 +20,7 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 * prénom(s) :  Herilala Julio Gladys
 * classe : ESIIA5
 * numéro : 25
-* rôle : *(développeur)*
+* rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 3 : 
 * nom : 
