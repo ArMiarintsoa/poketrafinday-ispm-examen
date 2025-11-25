@@ -51,10 +51,10 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 7 : 
-* nom : 
-* prénom(s) :
-* classe : 
-* numéro : 
+* nom : ZAFINDRAMALA
+* prénom(s) : Ramanantsoa Flavio
+* classe : ESIIA 5
+* numéro : 23
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 ### **2\. Résumé du Travail**
