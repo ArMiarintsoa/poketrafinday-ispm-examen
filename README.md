@@ -23,10 +23,10 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 3 : 
-* nom : 
-* prénom(s) :
-* classe : 
-* numéro : 
+* nom : SANDROS
+* prénom(s) : Junior
+* classe : ESIIA5
+* numéro : 18
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 4 : 
