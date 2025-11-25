@@ -88,11 +88,11 @@ Voici la liste des fichiers et liens importants pour évaluer notre travail :
 
 **Q1. Pourquoi on utilise F1-Score au lieu de accuracy ?**
 
-*(Votre réponse ici)*
+*car les données sont très déséquilibrées.*
 
 **Q2. Qu'est ce qui est plus grave ici, les Faux Positifs ou les Faux Négatifs ?**
 
-*(Votre réponse ici)*
+*les Faux Négatifs (FN) sont plus graves que les Faux Positifs.*
 
 **Q3. Stratégie de Modélisation : Quelles nouvelles variables (Feature Engineering) ont le plus amélioré votre modèle par rapport à la Baseline ?**
 
