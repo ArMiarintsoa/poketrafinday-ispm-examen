@@ -96,17 +96,15 @@ Voici la liste des fichiers et liens importants pour évaluer notre travail :
 
 **Q3. Stratégie de Modélisation : Quelles nouvelles variables (Feature Engineering) ont le plus amélioré votre modèle par rapport à la Baseline ?**
 
-*(Votre réponse ici)*
+Les nouvelles caractéristiques ajoutées (Feature Engineering) sont les suivantes : * nb_total_transactions (Fréquence globale des transactions) : Nombre total de transactions effectuées par le client. * avg_amount_customer (Montant moyen historique du client) : Le montant moyen des transactions passées de ce client. * transaction_hour (Heure de la transaction) : L'heure précise à laquelle la transaction a eu lieu (pour capturer les schémas jour/nuit). * is_weekend (Indicateur de fin de semaine) : Une variable binaire indiquant si la transaction a été effectuée durant un week-end (samedi/dimanche).*
 
 **Q4. Enoncez tous les types de fraudes que vous avez décelé lors de votre analyse**
 
-* *(fraude1)*
-* *(fraude2)*
-* *(fraude3)*
-* *(...)*
+* *TRANSFER*
+* *CASH_OUT*
 
 **Q5. Selon vous, quelle décision prendre si une transaction *en cours* est détectée comme *fraude* par le modèle ?**
-*(votre réponse ici)*
+*Plutôt que d'opter pour une simple décision binaire (Accepter/Refuser), il est crucial d'établir des seuils de risque basés sur la probabilité $\mathbf{P(Fraude)}$ donnée par le modèle.*
 
 ### **5\. Bibliographie**
 *(si vous avez des livres, liens ou articles qui vous ont servi dans ce travail)*
