@@ -44,10 +44,10 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 6 : 
-* nom : 
-* prénom(s) :
-* classe : 
-* numéro : 
+* nom : RAKOTOZAFY
+* prénom(s) :Harimanda Zoeliniaina Valerio
+* classe : ESIIA 5
+* numéro : 14
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 7 : 
