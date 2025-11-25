@@ -30,10 +30,10 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 4 : 
-* nom : 
-* prénom(s) :
-* classe : 
-* numéro : 
+* nom : RAJERISON
+* prénom(s) : Hajatiana Olivier 
+* classe : ESIIA5
+* numéro : 21
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 5 : 
