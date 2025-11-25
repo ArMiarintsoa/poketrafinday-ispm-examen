@@ -16,11 +16,11 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 2 : 
-* nom : 
-* prénom(s) :  
-* classe : 
-* numéro : 
-* rôle : *(développeur, analyste, présentateur, ...)*
+* nom : RAMAMONJISOA
+* prénom(s) :  Herilala Julio Gladys
+* classe : ESIIA5
+* numéro : 25
+* rôle : *(développeur)*
 
 #### Membre 3 : 
 * nom : 
