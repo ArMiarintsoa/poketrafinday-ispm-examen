@@ -37,10 +37,10 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 5 : 
-* nom : 
-* prénom(s) :
-* classe : 
-* numéro : 
+* nom : RAJAONAH 
+* prénom(s) : Anjara Fanomezantsoa
+* classe : ESIIA 5
+* numéro : 22
 * rôle : *(développeur, analyste, présentateur, ...)*
 
 #### Membre 6 : 
