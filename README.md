@@ -60,7 +60,7 @@ Merci de lister tous les membres de l'équipe ayant participé au Hackathon.
 ### **2\. Résumé du Travail**
 
 Problématique :  
-(Rédigez ici 2 à 3 phrases expliquant le problème de sécurité détecté chez PoketraFinday et pourquoi il est critique de le résoudre).  
+Face à l’augmentation des fraudes ciblant les comptes utilisateurs, comment développer un modèle prédictif fiable capable d’identifier les comportements suspects afin de protéger la plateforme sans nuire aux opérations normales des clients ? 
 Méthodologie Adoptée :  
 (Résumez votre approche technique : EDA, pré-traitement spécifique, choix des modèles, stratégie de validation).  
 Résultats Obtenus :  
